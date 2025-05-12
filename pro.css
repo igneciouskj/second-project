@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.number{
+    margin-left: 50px;
+    font-size: 15px;
+
+}
+.li{
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.text1{
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+}
+.icons a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 500;
+
+}
+
