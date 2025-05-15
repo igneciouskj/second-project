@@ -153,3 +153,8 @@
     display: flex;
 }
 
+.card2{
+    display: flex;
+    width: 900px;
+    align-items: center;
+}
