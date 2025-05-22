@@ -155,6 +155,60 @@
 
 .card2{
     display: flex;
-    width: 900px;
+    width: 1700px;
     align-items: center;
+    background-color:whitesmoke;
+}
+.card-text{
+    padding:20px 100px;
+}
+.card-text h5{
+    color: orangered;
+    
+}
+.card-text h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+.numbers h2{
+    display: flex;
+  color: orangered;
+}
+.numbers p{
+    font-weight: bold;
+    font-size: 18px;
+}
+.form1{
+    border: 1px solid black;
+    margin-right: 400px;
+    width: 600px;
+    padding: 50px 150px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba;
+    background-color: orangered;
+}
+.form1 input{
+    flex: 1;
+   font-size: 18px;
+   padding: 10px 50px;
+   border: none;
+   outline: none;
+}
+.form button{
+    padding: 10px 50px;
+    background-color:steelblue;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+
+}
+.form a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+    padding: 0px 50px;
+}
+.form button:hover{
+    background-color: black;
+
 }
